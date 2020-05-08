@@ -5,6 +5,7 @@
 #include "seam_carving.h"
 
 int main(int argc, const char *argv[]){
+	int i=0;
     char *filter = "Cental";//"Sobel", "Central", "Prewitt"; default = "Central(Simple)"
     int opt;
     opt = 0;
