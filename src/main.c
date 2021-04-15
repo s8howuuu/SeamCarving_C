@@ -13,7 +13,7 @@ int main(int argc, const char *argv[]){
     int count = 50;
   
     char *open_name = "../data/owl.ppm";
-
+    int test = 19; 
 
 
     char *direction = "Vertical";//"Horizontal";default = "Vertical"
